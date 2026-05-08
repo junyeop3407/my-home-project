@@ -11,7 +11,7 @@ figma 디자인 및 기획서 포함 개인 프로젝트
 
 ## 2. 디자인 및 기획 자료
 * **상세 기획서:** [ 기획서 PDF 보기](./docs/마루마루_서비스기획서.pdf)
-* **디자인 시안:** [피그마 디자인 PDF 보기](./design/마루마루figma디자인)
+* **디자인 시안:** [피그마 디자인 PDF 보기](./design/marumaru_figma)
 * **원본 링크:** [Figma 원본 바로가기](https://www.figma.com/proto/opMxrhNgIouwEdwLNmHTV0/%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC-%EC%BC%80%EC%96%B4_%EA%B3%BC%EC%A0%9C_%EB%B0%B1%EC%A4%80%EC%97%BD?node-id=128-892&t=5Ms15EbToiC6JVop-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=128%3A892&show-proto-sidebar=1))
 
 ## 3. 핵심 기능 (구현 예정)
